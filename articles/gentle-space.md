@@ -10,6 +10,8 @@ _A search for the smaller shell_
 
 Micro-living is more than a trend — it’s a necessity for many people, and a chance for gentler, more sustainable homes. Yet these spaces remain rare. What would it mean if we built more small, accessible, eco-friendly homes for those who want or need them?
 
+![Decorative image](../images/gentle-space-cover.svg)
+
 ---
 
 ## Why is micro-living so rare?
